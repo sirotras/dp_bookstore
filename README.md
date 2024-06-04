@@ -2,7 +2,7 @@
 
 --In Progress--
 
-A online bookstore project allowing me to practice more with Django, PostgreSQL, and Docker.
+An online bookstore project allowing me to practice more with Django, PostgreSQL, and Docker.
 
 ## My ToDo
 
