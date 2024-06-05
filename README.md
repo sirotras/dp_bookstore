@@ -6,8 +6,6 @@ An online bookstore project allowing me to practice more with Django, PostgreSQL
 
 ## My ToDo
 
-- File uploads
-
 - Search
 
 - Performance
@@ -26,7 +24,7 @@ An online bookstore project allowing me to practice more with Django, PostgreSQL
 
 - Email configuration
 
-- tbd
+- File/Image uploads 
 
 ## Installation
 
